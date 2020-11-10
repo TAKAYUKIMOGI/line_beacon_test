@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "devices": "*",
+        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.1"
     },
     "files": [
         "main.blocks",
